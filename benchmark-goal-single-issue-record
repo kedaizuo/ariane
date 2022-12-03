@@ -1,0 +1,62 @@
+Listening on port 42723
+Microseconds for one run through Dhrystone: 493
+Dhrystones per Second:                      2025
+mcycle = 246875
+minstret = 196529
+tmp/riscv-tests/build/benchmarks//dhrystone.riscv completed after 794054 cycles
+CPU time used: 133920.57 ms
+Wall clock time passed: 133931.87 ms
+work-ver/Variane_testharness tmp/riscv-tests/build/benchmarks//median.riscv
+This emulator compiled with JTAG Remote Bitbang client. To enable, use +jtag_rbb_enable=1.
+Listening on port 45869
+mcycle = 7692
+minstret = 4159
+tmp/riscv-tests/build/benchmarks//median.riscv completed after 405701 cycles
+CPU time used: 70539.40 ms
+Wall clock time passed: 70539.92 ms
+work-ver/Variane_testharness tmp/riscv-tests/build/benchmarks//multiply.riscv
+This emulator compiled with JTAG Remote Bitbang client. To enable, use +jtag_rbb_enable=1.
+Listening on port 35121
+mcycle = 33482
+minstret = 24104
+tmp/riscv-tests/build/benchmarks//multiply.riscv completed after 405017 cycles
+CPU time used: 70938.26 ms
+Wall clock time passed: 70952.12 ms
+work-ver/Variane_testharness tmp/riscv-tests/build/benchmarks//qsort.riscv
+This emulator compiled with JTAG Remote Bitbang client. To enable, use +jtag_rbb_enable=1.
+Listening on port 39883
+mcycle = 230089
+minstret = 123803
+tmp/riscv-tests/build/benchmarks//qsort.riscv completed after 1227698 cycles
+CPU time used: 206011.39 ms
+Wall clock time passed: 209002.75 ms
+work-ver/Variane_testharness tmp/riscv-tests/build/benchmarks//rsort.riscv
+This emulator compiled with JTAG Remote Bitbang client. To enable, use +jtag_rbb_enable=1.
+Listening on port 42345
+mcycle = 224669
+minstret = 171157
+tmp/riscv-tests/build/benchmarks//rsort.riscv completed after 1349102 cycles
+CPU time used: 218691.85 ms
+Wall clock time passed: 218801.10 ms
+work-ver/Variane_testharness tmp/riscv-tests/build/benchmarks//towers.riscv
+This emulator compiled with JTAG Remote Bitbang client. To enable, use +jtag_rbb_enable=1.
+Listening on port 43029
+mcycle = 6815
+minstret = 6170
+tmp/riscv-tests/build/benchmarks//towers.riscv completed after 328373 cycles
+CPU time used: 60104.53 ms
+Wall clock time passed: 60579.99 ms
+work-ver/Variane_testharness tmp/riscv-tests/build/benchmarks//vvadd.riscv
+This emulator compiled with JTAG Remote Bitbang client. To enable, use +jtag_rbb_enable=1.
+Listening on port 46289
+mcycle = 2462
+minstret = 2420
+tmp/riscv-tests/build/benchmarks//vvadd.riscv completed after 418262 cycles
+CPU time used: 72811.72 ms
+Wall clock time passed: 72812.23 ms
+work-ver/Variane_testharness tmp/riscv-tests/build/benchmarks//pmp.riscv
+This emulator compiled with JTAG Remote Bitbang client. To enable, use +jtag_rbb_enable=1.
+Listening on port 41229
+tmp/riscv-tests/build/benchmarks//pmp.riscv completed after 1300898 cycles
+CPU time used: 217285.42 ms
+Wall clock time passed: 217380.41 ms
